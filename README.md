@@ -10,8 +10,9 @@ A simple social media application with users, posts, likes and comments - develo
 1. Node (13.12.0)
 2. NPM (6.14.4) or Yarn (1.22.4)
 3. MongoDB (4.2.0)
+![netc](https://user-images.githubusercontent.com/85629794/198231392-153c19b0-e5c8-46c4-b0c0-b2cf6edd8dcc.jpg)
 
-![mern6](https://user-images.githubusercontent.com/85629794/172061122-d4833ab6-98c1-49c3-815d-d9d36464010a.jpg)
+
 ![mern5](https://user-images.githubusercontent.com/85629794/172061099-8ab1db4e-c359-4bf9-beaf-13753bb8ecfc.jpg)
 
 ![mern7](https://user-images.githubusercontent.com/85629794/172061107-806b1b8c-527f-4149-925b-7e697df18762.jpg)
