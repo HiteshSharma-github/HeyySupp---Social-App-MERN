@@ -2,7 +2,7 @@
 
 ![mernicon](https://user-images.githubusercontent.com/85629794/172061061-97b3c374-3e31-4363-8cda-3c74327e1bca.jpg)
 
-A simple social media application for coders interaction with users, posts, likes ,reactions and a compier for programming languages  C ,C++ ,C# ,Java ,Javascript ,Python for coders community.
+A simple social media application for coders interaction with users, posts, likes ,reactions and a complier for programming languages  C ,C++ ,C# ,Java ,Javascript ,Python for coders community.
 
 Hosted code editor https://netspirecompiler.herokuapp.com/ 
                                                                                                                                                                        
