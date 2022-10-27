@@ -19,6 +19,7 @@ github repo for code editor- https://github.com/HiteshSharma-github/MERN-CODE-ED
 
 ![mern7](https://user-images.githubusercontent.com/85629794/172061107-806b1b8c-527f-4149-925b-7e697df18762.jpg)
 ![hey](https://user-images.githubusercontent.com/85629794/198233380-24391647-676a-46b7-a441-73d5fa95a5b1.png)
+![Screenshot 2022-10-27 141130](https://user-images.githubusercontent.com/85629794/198236835-742792e0-c1e0-4978-97c5-9ed7a4cf31b4.png)
 
 ![mern1](https://user-images.githubusercontent.com/85629794/172061128-36823b73-626c-47af-b174-950c0b8ada47.jpg)
 ![mern2](https://user-images.githubusercontent.com/85629794/172061129-0faa47c8-d632-4c5c-a1f6-59a356c8cc07.jpg)
